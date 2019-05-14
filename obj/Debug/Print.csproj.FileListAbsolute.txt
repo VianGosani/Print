@@ -1,0 +1,7 @@
+D:\18.11.2324\Print\Print\obj\Debug\Print.csprojAssemblyReference.cache
+D:\18.11.2324\Print\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+D:\18.11.2324\Print\Print\bin\Debug\Print.exe.config
+D:\18.11.2324\Print\Print\bin\Debug\Print.exe
+D:\18.11.2324\Print\Print\bin\Debug\Print.pdb
+D:\18.11.2324\Print\Print\obj\Debug\Print.exe
+D:\18.11.2324\Print\Print\obj\Debug\Print.pdb
